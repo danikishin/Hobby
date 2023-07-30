@@ -1,0 +1,15 @@
+/Users/daniil/Documents/study/personal/Hobby/Hobby/bin/Debug/net7.0/Hobby
+/Users/daniil/Documents/study/personal/Hobby/Hobby/bin/Debug/net7.0/Hobby.deps.json
+/Users/daniil/Documents/study/personal/Hobby/Hobby/bin/Debug/net7.0/Hobby.runtimeconfig.json
+/Users/daniil/Documents/study/personal/Hobby/Hobby/bin/Debug/net7.0/Hobby.dll
+/Users/daniil/Documents/study/personal/Hobby/Hobby/bin/Debug/net7.0/Hobby.pdb
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.csproj.AssemblyReference.cache
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.AssemblyInfoInputs.cache
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.AssemblyInfo.cs
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.csproj.CoreCompileInputs.cache
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.dll
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/refint/Hobby.dll
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.pdb
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/Hobby.genruntimeconfig.cache
+/Users/daniil/Documents/study/personal/Hobby/Hobby/obj/Debug/net7.0/ref/Hobby.dll

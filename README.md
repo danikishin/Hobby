@@ -1,4 +1,6 @@
 # ProbitCompress
+<img width="1400" alt="image" src="https://github.com/danikishin/ProbitCompress/assets/68384137/40484e01-e07c-48a3-9f49-2274c5436a78">
+
 
 ## Overview 
 
